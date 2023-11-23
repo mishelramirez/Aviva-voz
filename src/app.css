@@ -1,0 +1,10 @@
+
+body {
+    width: 100% !important;
+    margin: 0px;
+   
+}
+@font-face {
+    font-family: Raleway;
+    src: url(/src/assets/font/Raleway-Italic-VariableFont_wght.ttf);
+}

@@ -1,0 +1,18 @@
+.container-header{
+    display: flex;
+}
+
+.img-logo{
+    height: 50px;
+}
+
+.container-link{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    padding-left: 50px;
+    gap: 8px;
+}
+.container-link a{
+    text-decoration: none;
+}
